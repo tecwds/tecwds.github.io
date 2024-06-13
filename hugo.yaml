@@ -193,28 +193,53 @@ params:
 ### See https://stack.jimmycai.com/config/menu
 ### To remove about, archive and search page menu item, remove `menu` field from their FrontMatter
 menu:
-  main:
-    - identifier: github
-      name: 主页
-      url: /
-      weight: -90
-      params:
-      icon: brand-github
+  main: []
+    # - identifier: home
+    #   name: 主页
+    #   url: /
+    #   weight: -99
+    #   params:
+    #     icon: home
 
-    - identifier: github
-      name: 文章
-      url: /_posts
-      weight: -80
-      params:
-      icon: brand-gighub
+    # - identifier: blog
+    #   name: 博客
+    #   url: /post
+    #   weight: -98
+    #   params:
+    #     icon: tag
+
+    # - identifier: category
+    #   name: 分类
+    #   url: /categories
+    #   weight: -97
+    #   params:
+    #     icon: categories
+
+    # - identifier: archives
+    #   name: 归档
+    #   url: /
+    #   weight: -96
+    #   params:
+    #     icon: archives
 
   social:
     - identifier: github
       name: GitHub
       url: https://github.com/tecwds
       params:
-        icon: brand-github
+        icon: github
 
+    - identifier: gitee
+      name: Gitee
+      url: https://gitee.com/wpaint
+      params:
+        icon: gitee
+
+    - identifier: mail
+      name: mail
+      url: mail:tecwds@163/com
+      params:
+        icon: mail
 related:
   includeNewer: true
   threshold: 60

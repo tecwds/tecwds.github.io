@@ -20,12 +20,6 @@ languages:
     weight: 1
     params:
       description: 站点建设当中...
-  en:
-    languageName: English
-    title: "CodingShare - Cloud Technology"
-    weight: 2
-    params:
-      description: Site is buiding
 
 services:
   # Change it to your Disqus shortname before using
@@ -193,7 +187,8 @@ params:
 ### See https://stack.jimmycai.com/config/menu
 ### To remove about, archive and search page menu item, remove `menu` field from their FrontMatter
 menu:
-  main: []
+  main:
+    []
     # - identifier: home
     #   name: 主页
     #   url: /

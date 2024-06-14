@@ -8,14 +8,14 @@ categories:
   - Blog
 ---
 
-# 前提条件
+## 前提条件
 
 1. 安装 **Hugo** （拓展版）
 2. 安装 **Git**
 
-# 软件安装
+## 软件安装
 
-## 1. Hugo
+### Hugo
 
 **`windows`** 平台
 
@@ -38,7 +38,7 @@ winget install Hugo.Hugo.Extended
 
 -- TODO
 
-## 2. Git
+### Git
 
 **`windows`** 平台
 
@@ -56,7 +56,7 @@ winget install Git.Git
 
 -- TODO
 
-## 验证安装
+### 验证安装
 
 打开命令行，验证 `Hugo` 以及 `Git`
 
@@ -74,11 +74,11 @@ git --version
 
 ![Git版本](git-version.png)
 
-# 快速开始
+## 快速开始
 
-## 创建网站
+### 创建网站
 
-### 1. 创建新的项目（网站）
+#### 创建新的项目（网站）
 
 ```shell
 hugo new site 项目名称
@@ -87,7 +87,7 @@ hugo new site 项目名称
 hugo new site my_blogs
 ```
 
-### 2. 进入项目的根目录
+#### 进入项目的根目录
 
 ```shell
 cd 项目名称
@@ -96,13 +96,13 @@ cd 项目名称
 cd my_blogs
 ```
 
-### 3. 创建 Git 仓库
+#### 创建 Git 仓库
 
 ```shell
 git init
 ```
 
-### 4. 选择一个好看的主题
+#### 选择一个好看的主题
 
 > 在这个网址进行选择：
 > [Hugo 主题](https://themes.gohugo.io/)
@@ -117,7 +117,7 @@ git init
 git submodule add https://github.com/CaiJimmy/hugo-theme-stack/ themes/hugo-theme-stack
 ```
 
-### 5. 使主题生效
+#### 使主题生效
 
 > Tips: 下载的主题需要查看他们的文档（如果有的话），部分主题的设置会有不同
 
@@ -128,7 +128,7 @@ git submodule add https://github.com/CaiJimmy/hugo-theme-stack/ themes/hugo-them
 将 `hugo.yaml` 复制到项目根目录，并且删除 `hugo.toml`， 此时就会默认加载 **yaml** 配置文件而不是 **toml** 配置文件。
 
 
-### 6. 查看网站
+#### 查看网站
 
 检查主题是否生效
 
@@ -138,11 +138,11 @@ hugo server
 
 用浏览器打开网站查看（一般是 http://localhost:1313）
 
-# 说明
+## 说明
 
 此后文章按照 `Stack` 主题进行记录
 
-# 参考文档
+## 参考文档
 
 1. [Hugo 快速开始](https://hugo.opendocs.io/getting-started/quick-start/)
 2. [Hugo 主题](https://themes.gohugo.io/)

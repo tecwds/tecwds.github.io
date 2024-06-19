@@ -28,8 +28,3 @@ resources
 
 assets/jsconfig.json
 .DS_Store
-
-public/*.*
-public/**
-public/*.html
-public/*.xml

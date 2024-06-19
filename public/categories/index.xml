@@ -7,18 +7,106 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>tecwds</copyright>
-        <lastBuildDate>Sat, 15 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Wed, 19 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>CodingApp</title>
+        <link>http://localhost:1313/categories/codingapp/</link>
+        <pubDate>Wed, 19 Jun 2024 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/categories/codingapp/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Gitea</title>
+        <link>http://localhost:1313/categories/gitea/</link>
+        <pubDate>Wed, 19 Jun 2024 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/categories/gitea/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Go</title>
+        <link>http://localhost:1313/categories/go/</link>
+        <pubDate>Wed, 19 Jun 2024 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/categories/go/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>ExploreEuler</title>
+        <link>http://localhost:1313/categories/exploreeuler/</link>
+        <pubDate>Tue, 18 Jun 2024 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/categories/exploreeuler/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Linux</title>
+        <link>http://localhost:1313/categories/linux/</link>
+        <pubDate>Tue, 18 Jun 2024 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/categories/linux/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>OpenEuler</title>
+        <link>http://localhost:1313/categories/openeuler/</link>
+        <pubDate>Tue, 18 Jun 2024 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/categories/openeuler/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>VMware</title>
+        <link>http://localhost:1313/categories/vmware/</link>
+        <pubDate>Tue, 18 Jun 2024 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/categories/vmware/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>CodingSite</title>
+        <link>http://localhost:1313/categories/codingsite/</link>
+        <pubDate>Sat, 15 Jun 2024 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/categories/codingsite/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Docker</title>
+        <link>http://localhost:1313/categories/docker/</link>
+        <pubDate>Sat, 15 Jun 2024 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/categories/docker/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>It-Tools</title>
+        <link>http://localhost:1313/categories/it-tools/</link>
+        <pubDate>Sat, 15 Jun 2024 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/categories/it-tools/</guid>
+        <description></description>
+        </item>
+        <item>
         <title>Blog</title>
         <link>http://localhost:1313/categories/blog/</link>
-        <pubDate>Sat, 15 Jun 2024 00:00:00 +0000</pubDate>
+        <pubDate>Fri, 14 Jun 2024 00:00:00 +0000</pubDate>
         
         <guid>http://localhost:1313/categories/blog/</guid>
         <description></description>
         </item>
         <item>
+        <title>CodingWrite</title>
+        <link>http://localhost:1313/categories/codingwrite/</link>
+        <pubDate>Fri, 14 Jun 2024 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/categories/codingwrite/</guid>
+        <description></description>
+        </item>
+        <item>
         <title>Hugo</title>
         <link>http://localhost:1313/categories/hugo/</link>
-        <pubDate>Sat, 15 Jun 2024 00:00:00 +0000</pubDate>
+        <pubDate>Fri, 14 Jun 2024 00:00:00 +0000</pubDate>
         
         <guid>http://localhost:1313/categories/hugo/</guid>
         <description></description>

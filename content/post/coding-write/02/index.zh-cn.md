@@ -4,6 +4,7 @@ description: 命令行和 Github pages
 date: 2024-06-14
 image: title-img.png
 categories:
+  - CodingWrite
   - Hugo
   - Blog
 ---

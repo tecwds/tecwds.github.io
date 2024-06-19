@@ -4,6 +4,7 @@ description: 安装和配置
 date: 2024-06-14
 image: hugo-logo-title.png
 categories:
+  - CodingWrite   
   - Hugo
   - Blog
 ---

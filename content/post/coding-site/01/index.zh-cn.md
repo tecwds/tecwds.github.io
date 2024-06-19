@@ -4,6 +4,7 @@ description: 利用 Docker 容器技术快速部署一个网站
 date: 2024-06-15
 image: title-image.png
 categories:
+  - CodingSite
   - Docker
   - it-tools
 ---
@@ -17,6 +18,10 @@ categories:
 > 崩坏的起始时间（印象中）：`2024-06-06`
 >
 > 其实已经写完了，不过重新使用 hugo 来写博客的话，内容需要移植 copy，懒。
+
+## 更新记录
+
+1. **2024-06-15** 写了点没啥用的东西
 
 ## 参考文档
 
